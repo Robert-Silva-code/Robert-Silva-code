@@ -1,6 +1,8 @@
 ## Hi there 👋
-### - Me chamo Robert e estou atualmente estudando TSI no IFPB.
+### - Me chamo Robert e estou atualmente estudando TSI no IFPB. 
 ### - Gosto de aprender e adoro desafios.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,prisma,py)](https://skillicons.dev)
 <!--
 **Robert-Silva-code/Robert-Silva-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
