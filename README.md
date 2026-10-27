@@ -1,5 +1,6 @@
 ## Hi there 👋
-Me chamo Robert e estou atualmente estudando TSI no IFPB. Gosto de aprender e adoro desafios
+### - Me chamo Robert e estou atualmente estudando TSI no IFPB.
+### - Gosto de aprender e adoro desafios.
 <!--
 **Robert-Silva-code/Robert-Silva-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
